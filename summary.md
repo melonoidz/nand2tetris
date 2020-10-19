@@ -20,3 +20,6 @@
 | If x then y | 0   |     |     |     |     |
 | Nand        | 0   |     |     |     |     |
 | Constant 1  | 0   |     |     |     |     |
+
+- Xorのゲート実装
+  
